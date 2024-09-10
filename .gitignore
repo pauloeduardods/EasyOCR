@@ -107,3 +107,10 @@ ENV/
 .vscode/
 .vs/
 .idea/
+
+*/all_data/*
+*.pth
+log_dataset.txt
+log_train.txt
+iter_*.pth
+opt.txt
